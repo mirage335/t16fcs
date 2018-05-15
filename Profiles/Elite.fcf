@@ -34,8 +34,8 @@
           <StartTrigger>0</StartTrigger>
           <StopTrigger>0</StopTrigger>
           <CurveType>0</CurveType>
-          <Lower>3</Lower>
-          <Center>10</Center>
+          <Lower>10</Lower>
+          <Center>3</Center>
           <Upper>10</Upper>
           <Trim>0</Trim>
           <Curve>3</Curve>
