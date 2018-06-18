@@ -929,6 +929,174 @@
     <Event7>
       <HidEvent>
         <DeviceNumber>1003</DeviceNumber>
+        <Name>B11</Name>
+        <HidType>3</HidType>
+        <EventType>1</EventType>
+        <ActionType>1</ActionType>
+        <ControlIndex>11</ControlIndex>
+        <Events>
+          <HidCommand0>
+            <EventName>targetGroup</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>2 32</Layers>
+            <Delay>-1</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>F12</Name>
+              <HidType>1</HidType>
+              <EventType>3</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>69</ControlIndex>
+            </HidEvent0>
+          </HidCommand0>
+        </Events>
+      </HidEvent>
+    </Event7>
+    <Event8>
+      <HidEvent>
+        <DeviceNumber>1003</DeviceNumber>
+        <Name>B12</Name>
+        <HidType>3</HidType>
+        <EventType>1</EventType>
+        <ActionType>1</ActionType>
+        <ControlIndex>12</ControlIndex>
+        <Events>
+          <HidCommand0>
+            <EventName>targetGroup</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>2 32</Layers>
+            <Delay>-1</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>F11</Name>
+              <HidType>1</HidType>
+              <EventType>3</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>68</ControlIndex>
+            </HidEvent0>
+          </HidCommand0>
+        </Events>
+      </HidEvent>
+    </Event8>
+    <Event9>
+      <HidEvent>
+        <DeviceNumber>1003</DeviceNumber>
+        <Name>B13</Name>
+        <HidType>3</HidType>
+        <EventType>1</EventType>
+        <ActionType>1</ActionType>
+        <ControlIndex>13</ControlIndex>
+        <Events>
+          <HidCommand0>
+            <EventName>targetGroup</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>2 32</Layers>
+            <Delay>-1</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>F10</Name>
+              <HidType>1</HidType>
+              <EventType>3</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>67</ControlIndex>
+            </HidEvent0>
+          </HidCommand0>
+        </Events>
+      </HidEvent>
+    </Event9>
+    <Event10>
+      <HidEvent>
+        <DeviceNumber>1003</DeviceNumber>
+        <Name>B14</Name>
+        <HidType>3</HidType>
+        <EventType>1</EventType>
+        <ActionType>1</ActionType>
+        <ControlIndex>14</ControlIndex>
+        <Events>
+          <HidCommand0>
+            <EventName>targetGroup</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>2 32</Layers>
+            <Delay>-1</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>F9</Name>
+              <HidType>1</HidType>
+              <EventType>3</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>66</ControlIndex>
+            </HidEvent0>
+          </HidCommand0>
+        </Events>
+      </HidEvent>
+    </Event10>
+    <Event11>
+      <HidEvent>
+        <DeviceNumber>1003</DeviceNumber>
         <Name>B15</Name>
         <HidType>3</HidType>
         <EventType>1</EventType>
@@ -938,7 +1106,7 @@
           <HidCommand0>
             <EventName>primaryFiring+</EventName>
             <IsSequence>False</IsSequence>
-            <Layers>2 32</Layers>
+            <Layers>2 16</Layers>
             <Delay>-1</Delay>
             <Comment>
             </Comment>
@@ -965,10 +1133,40 @@
               <ControlIndex>18</ControlIndex>
             </HidEvent0>
           </HidCommand0>
+          <HidCommand1>
+            <EventName>targetGroup</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>2 32</Layers>
+            <Delay>-1</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>F7</Name>
+              <HidType>1</HidType>
+              <EventType>3</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>64</ControlIndex>
+            </HidEvent0>
+          </HidCommand1>
         </Events>
       </HidEvent>
-    </Event7>
-    <Event8>
+    </Event11>
+    <Event12>
       <HidEvent>
         <DeviceNumber>1003</DeviceNumber>
         <Name>B16</Name>
@@ -980,7 +1178,7 @@
           <HidCommand0>
             <EventName>secondaryFiring+</EventName>
             <IsSequence>False</IsSequence>
-            <Layers>2 32</Layers>
+            <Layers>2 16</Layers>
             <Delay>-1</Delay>
             <Comment>
             </Comment>
@@ -1015,10 +1213,40 @@
               <ControlIndex>56</ControlIndex>
             </HidEvent1>
           </HidCommand0>
+          <HidCommand1>
+            <EventName>targetGroup</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>2 32</Layers>
+            <Delay>-1</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>F8</Name>
+              <HidType>1</HidType>
+              <EventType>3</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>65</ControlIndex>
+            </HidEvent0>
+          </HidCommand1>
         </Events>
       </HidEvent>
-    </Event8>
-    <Event9>
+    </Event12>
+    <Event13>
       <HidEvent>
         <DeviceNumber>1003</DeviceNumber>
         <Name>H1U</Name>
@@ -1120,8 +1348,8 @@
           </HidCommand2>
         </Events>
       </HidEvent>
-    </Event9>
-    <Event10>
+    </Event13>
+    <Event14>
       <HidEvent>
         <DeviceNumber>1003</DeviceNumber>
         <Name>H1R</Name>
@@ -1223,8 +1451,8 @@
           </HidCommand2>
         </Events>
       </HidEvent>
-    </Event10>
-    <Event11>
+    </Event14>
+    <Event15>
       <HidEvent>
         <DeviceNumber>1003</DeviceNumber>
         <Name>H1D</Name>
@@ -1326,8 +1554,8 @@
           </HidCommand2>
         </Events>
       </HidEvent>
-    </Event11>
-    <Event12>
+    </Event15>
+    <Event16>
       <HidEvent>
         <DeviceNumber>1003</DeviceNumber>
         <Name>H1L</Name>
@@ -1437,8 +1665,8 @@
           </HidCommand2>
         </Events>
       </HidEvent>
-    </Event12>
-    <Event13>
+    </Event16>
+    <Event17>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>TLOCK</Name>
@@ -1479,8 +1707,8 @@
           </HidCommand0>
         </Events>
       </HidEvent>
-    </Event13>
-    <Event14>
+    </Event17>
+    <Event18>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>TBTN1</Name>
@@ -1514,7 +1742,7 @@
               <DeviceNumber>-1</DeviceNumber>
               <Name>z</Name>
               <HidType>1</HidType>
-              <EventType>3</EventType>
+              <EventType>4</EventType>
               <ActionType>1</ActionType>
               <ControlIndex>29</ControlIndex>
             </HidEvent0>
@@ -1552,8 +1780,8 @@
           </HidCommand1>
         </Events>
       </HidEvent>
-    </Event14>
-    <Event15>
+    </Event18>
+    <Event19>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>TBTN2</Name>
@@ -1656,8 +1884,8 @@
           </HidCommand2>
         </Events>
       </HidEvent>
-    </Event15>
-    <Event16>
+    </Event19>
+    <Event20>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>TBTN3</Name>
@@ -1699,8 +1927,8 @@
           </HidCommand0>
         </Events>
       </HidEvent>
-    </Event16>
-    <Event17>
+    </Event20>
+    <Event21>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>TBTN4</Name>
@@ -1742,8 +1970,8 @@
           </HidCommand0>
         </Events>
       </HidEvent>
-    </Event17>
-    <Event18>
+    </Event21>
+    <Event22>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>TBTN5</Name>
@@ -1785,8 +2013,8 @@
           </HidCommand0>
         </Events>
       </HidEvent>
-    </Event18>
-    <Event19>
+    </Event22>
+    <Event23>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>THAT1U</Name>
@@ -1826,39 +2054,9 @@
             </HidEvent0>
           </HidCommand0>
           <HidCommand1>
-            <EventName>1</EventName>
-            <IsSequence>False</IsSequence>
-            <Layers>1 2 16</Layers>
-            <Delay>-1</Delay>
-            <Comment>
-            </Comment>
-            <EventsNumber>1</EventsNumber>
-            <StartTrigger>0</StartTrigger>
-            <StopTrigger>0</StopTrigger>
-            <CurveType>0</CurveType>
-            <Lower>0</Lower>
-            <Center>0</Center>
-            <Upper>0</Upper>
-            <Trim>0</Trim>
-            <Curve>0</Curve>
-            <Zoom>0</Zoom>
-            <AxisIsReversed>False</AxisIsReversed>
-            <AxisIsRelative>False</AxisIsRelative>
-            <XPosition>50</XPosition>
-            <YPosition>50</YPosition>
-            <HidEvent0>
-              <DeviceNumber>-1</DeviceNumber>
-              <Name>1</Name>
-              <HidType>1</HidType>
-              <EventType>3</EventType>
-              <ActionType>1</ActionType>
-              <ControlIndex>30</ControlIndex>
-            </HidEvent0>
-          </HidCommand1>
-          <HidCommand2>
             <EventName>01 - Alpha</EventName>
             <IsSequence>False</IsSequence>
-            <Layers>1 64</Layers>
+            <Layers>1 2 16</Layers>
             <Delay>-1</Delay>
             <Comment>
             </Comment>
@@ -1884,12 +2082,12 @@
               <ActionType>1</ActionType>
               <ControlIndex>6</ControlIndex>
             </HidEvent0>
-          </HidCommand2>
-          <HidCommand3>
+          </HidCommand1>
+          <HidCommand2>
             <EventName>01 - Alpha</EventName>
             <IsSequence>False</IsSequence>
-            <Layers>1 64</Layers>
-            <Delay>100</Delay>
+            <Layers>1 2 16</Layers>
+            <Delay>50</Delay>
             <Comment>
             </Comment>
             <EventsNumber>1</EventsNumber>
@@ -1914,12 +2112,42 @@
               <ActionType>1</ActionType>
               <ControlIndex>31</ControlIndex>
             </HidEvent0>
+          </HidCommand2>
+          <HidCommand3>
+            <EventName>01 - Alpha</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>1 2 16</Layers>
+            <Delay>100</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>1</Name>
+              <HidType>1</HidType>
+              <EventType>3</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>30</ControlIndex>
+            </HidEvent0>
           </HidCommand3>
           <HidCommand4>
             <EventName>01 - Alpha</EventName>
             <IsSequence>False</IsSequence>
-            <Layers>1 64</Layers>
-            <Delay>200</Delay>
+            <Layers>1 2 16</Layers>
+            <Delay>150</Delay>
             <Comment>
             </Comment>
             <EventsNumber>1</EventsNumber>
@@ -1947,8 +2175,8 @@
           </HidCommand4>
         </Events>
       </HidEvent>
-    </Event19>
-    <Event20>
+    </Event23>
+    <Event24>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>THAT1R</Name>
@@ -1988,39 +2216,9 @@
             </HidEvent0>
           </HidCommand0>
           <HidCommand1>
-            <EventName>2</EventName>
-            <IsSequence>False</IsSequence>
-            <Layers>1 2 16</Layers>
-            <Delay>-1</Delay>
-            <Comment>
-            </Comment>
-            <EventsNumber>1</EventsNumber>
-            <StartTrigger>0</StartTrigger>
-            <StopTrigger>0</StopTrigger>
-            <CurveType>0</CurveType>
-            <Lower>0</Lower>
-            <Center>0</Center>
-            <Upper>0</Upper>
-            <Trim>0</Trim>
-            <Curve>0</Curve>
-            <Zoom>0</Zoom>
-            <AxisIsReversed>False</AxisIsReversed>
-            <AxisIsRelative>False</AxisIsRelative>
-            <XPosition>50</XPosition>
-            <YPosition>50</YPosition>
-            <HidEvent0>
-              <DeviceNumber>-1</DeviceNumber>
-              <Name>2</Name>
-              <HidType>1</HidType>
-              <EventType>3</EventType>
-              <ActionType>1</ActionType>
-              <ControlIndex>31</ControlIndex>
-            </HidEvent0>
-          </HidCommand1>
-          <HidCommand2>
             <EventName>01 - Beta</EventName>
             <IsSequence>False</IsSequence>
-            <Layers>1 64</Layers>
+            <Layers>1 2 16</Layers>
             <Delay>-1</Delay>
             <Comment>
             </Comment>
@@ -2046,11 +2244,41 @@
               <ActionType>1</ActionType>
               <ControlIndex>6</ControlIndex>
             </HidEvent0>
+          </HidCommand1>
+          <HidCommand2>
+            <EventName>01 - Beta</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>1 2 16</Layers>
+            <Delay>50</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>2</Name>
+              <HidType>1</HidType>
+              <EventType>3</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>31</ControlIndex>
+            </HidEvent0>
           </HidCommand2>
           <HidCommand3>
             <EventName>01 - Beta</EventName>
             <IsSequence>False</IsSequence>
-            <Layers>1 64</Layers>
+            <Layers>1 2 16</Layers>
             <Delay>100</Delay>
             <Comment>
             </Comment>
@@ -2080,8 +2308,8 @@
           <HidCommand4>
             <EventName>01 - Beta</EventName>
             <IsSequence>False</IsSequence>
-            <Layers>1 64</Layers>
-            <Delay>200</Delay>
+            <Layers>1 2 16</Layers>
+            <Delay>150</Delay>
             <Comment>
             </Comment>
             <EventsNumber>1</EventsNumber>
@@ -2100,17 +2328,17 @@
             <YPosition>50</YPosition>
             <HidEvent0>
               <DeviceNumber>-1</DeviceNumber>
-              <Name>2</Name>
+              <Name>1</Name>
               <HidType>1</HidType>
               <EventType>3</EventType>
               <ActionType>1</ActionType>
-              <ControlIndex>31</ControlIndex>
+              <ControlIndex>30</ControlIndex>
             </HidEvent0>
           </HidCommand4>
         </Events>
       </HidEvent>
-    </Event20>
-    <Event21>
+    </Event24>
+    <Event25>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>THAT1D</Name>
@@ -2150,39 +2378,9 @@
             </HidEvent0>
           </HidCommand0>
           <HidCommand1>
-            <EventName>3</EventName>
-            <IsSequence>False</IsSequence>
-            <Layers>1 2 16</Layers>
-            <Delay>-1</Delay>
-            <Comment>
-            </Comment>
-            <EventsNumber>1</EventsNumber>
-            <StartTrigger>0</StartTrigger>
-            <StopTrigger>0</StopTrigger>
-            <CurveType>0</CurveType>
-            <Lower>0</Lower>
-            <Center>0</Center>
-            <Upper>0</Upper>
-            <Trim>0</Trim>
-            <Curve>0</Curve>
-            <Zoom>0</Zoom>
-            <AxisIsReversed>False</AxisIsReversed>
-            <AxisIsRelative>False</AxisIsRelative>
-            <XPosition>50</XPosition>
-            <YPosition>50</YPosition>
-            <HidEvent0>
-              <DeviceNumber>-1</DeviceNumber>
-              <Name>3</Name>
-              <HidType>1</HidType>
-              <EventType>3</EventType>
-              <ActionType>1</ActionType>
-              <ControlIndex>32</ControlIndex>
-            </HidEvent0>
-          </HidCommand1>
-          <HidCommand2>
             <EventName>01 - Delta</EventName>
             <IsSequence>False</IsSequence>
-            <Layers>1 64</Layers>
+            <Layers>1 2 16</Layers>
             <Delay>-1</Delay>
             <Comment>
             </Comment>
@@ -2208,12 +2406,12 @@
               <ActionType>1</ActionType>
               <ControlIndex>6</ControlIndex>
             </HidEvent0>
-          </HidCommand2>
-          <HidCommand3>
+          </HidCommand1>
+          <HidCommand2>
             <EventName>01 - Delta</EventName>
             <IsSequence>False</IsSequence>
-            <Layers>1 64</Layers>
-            <Delay>100</Delay>
+            <Layers>1 2 16</Layers>
+            <Delay>50</Delay>
             <Comment>
             </Comment>
             <EventsNumber>1</EventsNumber>
@@ -2238,12 +2436,12 @@
               <ActionType>1</ActionType>
               <ControlIndex>31</ControlIndex>
             </HidEvent0>
-          </HidCommand3>
-          <HidCommand4>
+          </HidCommand2>
+          <HidCommand3>
             <EventName>01 - Delta</EventName>
             <IsSequence>False</IsSequence>
-            <Layers>1 64</Layers>
-            <Delay>200</Delay>
+            <Layers>1 2 16</Layers>
+            <Delay>100</Delay>
             <Comment>
             </Comment>
             <EventsNumber>1</EventsNumber>
@@ -2267,6 +2465,36 @@
               <EventType>3</EventType>
               <ActionType>1</ActionType>
               <ControlIndex>32</ControlIndex>
+            </HidEvent0>
+          </HidCommand3>
+          <HidCommand4>
+            <EventName>01 - Delta</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>1 2 16</Layers>
+            <Delay>150</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>1</Name>
+              <HidType>1</HidType>
+              <EventType>3</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>30</ControlIndex>
             </HidEvent0>
           </HidCommand4>
           <HidCommand5>
@@ -2361,8 +2589,8 @@
           </HidCommand7>
         </Events>
       </HidEvent>
-    </Event21>
-    <Event22>
+    </Event25>
+    <Event26>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>THAT1L</Name>
@@ -2410,36 +2638,6 @@
             </HidEvent1>
           </HidCommand0>
           <HidCommand1>
-            <EventName>4</EventName>
-            <IsSequence>False</IsSequence>
-            <Layers>1 2 16</Layers>
-            <Delay>-1</Delay>
-            <Comment>
-            </Comment>
-            <EventsNumber>1</EventsNumber>
-            <StartTrigger>0</StartTrigger>
-            <StopTrigger>0</StopTrigger>
-            <CurveType>0</CurveType>
-            <Lower>0</Lower>
-            <Center>0</Center>
-            <Upper>0</Upper>
-            <Trim>0</Trim>
-            <Curve>0</Curve>
-            <Zoom>0</Zoom>
-            <AxisIsReversed>False</AxisIsReversed>
-            <AxisIsRelative>False</AxisIsRelative>
-            <XPosition>50</XPosition>
-            <YPosition>50</YPosition>
-            <HidEvent0>
-              <DeviceNumber>-1</DeviceNumber>
-              <Name>4</Name>
-              <HidType>1</HidType>
-              <EventType>3</EventType>
-              <ActionType>1</ActionType>
-              <ControlIndex>33</ControlIndex>
-            </HidEvent0>
-          </HidCommand1>
-          <HidCommand2>
             <EventName>repairs</EventName>
             <IsSequence>False</IsSequence>
             <Layers>1 64</Layers>
@@ -2476,11 +2674,11 @@
               <ActionType>1</ActionType>
               <ControlIndex>21</ControlIndex>
             </HidEvent1>
-          </HidCommand2>
-          <HidCommand3>
+          </HidCommand1>
+          <HidCommand2>
             <EventName>01 - Gamma</EventName>
             <IsSequence>False</IsSequence>
-            <Layers>1 64</Layers>
+            <Layers>1 2 16</Layers>
             <Delay>-1</Delay>
             <Comment>
             </Comment>
@@ -2506,12 +2704,12 @@
               <ActionType>1</ActionType>
               <ControlIndex>6</ControlIndex>
             </HidEvent0>
-          </HidCommand3>
-          <HidCommand4>
+          </HidCommand2>
+          <HidCommand3>
             <EventName>01 - Gamma</EventName>
             <IsSequence>False</IsSequence>
-            <Layers>1 64</Layers>
-            <Delay>100</Delay>
+            <Layers>1 2 16</Layers>
+            <Delay>50</Delay>
             <Comment>
             </Comment>
             <EventsNumber>1</EventsNumber>
@@ -2536,12 +2734,12 @@
               <ActionType>1</ActionType>
               <ControlIndex>31</ControlIndex>
             </HidEvent0>
-          </HidCommand4>
-          <HidCommand5>
+          </HidCommand3>
+          <HidCommand4>
             <EventName>01 - Gamma</EventName>
             <IsSequence>False</IsSequence>
-            <Layers>1 64</Layers>
-            <Delay>200</Delay>
+            <Layers>1 2 16</Layers>
+            <Delay>100</Delay>
             <Comment>
             </Comment>
             <EventsNumber>1</EventsNumber>
@@ -2566,11 +2764,41 @@
               <ActionType>1</ActionType>
               <ControlIndex>33</ControlIndex>
             </HidEvent0>
+          </HidCommand4>
+          <HidCommand5>
+            <EventName>01 - Gamma</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>1 2 16</Layers>
+            <Delay>150</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>1</Name>
+              <HidType>1</HidType>
+              <EventType>3</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>30</ControlIndex>
+            </HidEvent0>
           </HidCommand5>
         </Events>
       </HidEvent>
-    </Event22>
-    <Event23>
+    </Event26>
+    <Event27>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>THAT3U</Name>
@@ -2763,8 +2991,8 @@
           </HidCommand4>
         </Events>
       </HidEvent>
-    </Event23>
-    <Event24>
+    </Event27>
+    <Event28>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>THAT3R</Name>
@@ -2941,8 +3169,8 @@
           </HidCommand4>
         </Events>
       </HidEvent>
-    </Event24>
-    <Event25>
+    </Event28>
+    <Event29>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>THAT3D</Name>
@@ -3111,8 +3339,8 @@
           </HidCommand4>
         </Events>
       </HidEvent>
-    </Event25>
-    <Event26>
+    </Event29>
+    <Event30>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>THAT3L</Name>
@@ -3259,8 +3487,8 @@
           </HidCommand3>
         </Events>
       </HidEvent>
-    </Event26>
-    <Event27>
+    </Event30>
+    <Event31>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>THAT2U</Name>
@@ -3331,8 +3559,8 @@
           </HidCommand1>
         </Events>
       </HidEvent>
-    </Event27>
-    <Event28>
+    </Event31>
+    <Event32>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>THAT2R</Name>
@@ -3403,8 +3631,8 @@
           </HidCommand1>
         </Events>
       </HidEvent>
-    </Event28>
-    <Event29>
+    </Event32>
+    <Event33>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>THAT2D</Name>
@@ -3491,8 +3719,8 @@
           </HidCommand1>
         </Events>
       </HidEvent>
-    </Event29>
-    <Event30>
+    </Event33>
+    <Event34>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>THAT2L</Name>
@@ -3563,8 +3791,8 @@
           </HidCommand1>
         </Events>
       </HidEvent>
-    </Event30>
-    <Event31>
+    </Event34>
+    <Event35>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>TRDR</Name>
@@ -3779,8 +4007,8 @@
           </HidCommand5>
         </Events>
       </HidEvent>
-    </Event31>
-    <Event32>
+    </Event35>
+    <Event36>
       <HidEvent>
         <DeviceNumber>1006</DeviceNumber>
         <Name>TANT</Name>
@@ -3853,6 +4081,6 @@
           </HidCommand1>
         </Events>
       </HidEvent>
-    </Event32>
+    </Event36>
   </EventsList>
 </FastEventsMapping>
