@@ -9,13 +9,13 @@ _Nonstandard Keys_
 LShift+K	Make Kneeboard Shortcut
 LAlt+LWin+1	Kneeboard Jump To Shortcut 1
 
-LCtrl+F		Flaps Switch Step Aft
-LShift+F	Flaps Switch Step Fwd
-
 Slider		Radar Elevation
 
 Thumbstick	Thrust Designator Control (TDC)
 
 ChaffOff/FlareOn, FlareOff, ChaffOn
 
+-F5E-
+LCtrl+F		Flaps Switch Step Aft
+LShift+F	Flaps Switch Step Fwd
 
