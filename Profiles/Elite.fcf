@@ -249,7 +249,7 @@
           <StartTrigger>0</StartTrigger>
           <StopTrigger>0</StopTrigger>
           <CurveType>0</CurveType>
-          <Lower>5</Lower>
+          <Lower>8</Lower>
           <Center>5</Center>
           <Upper>1</Upper>
           <Trim>0</Trim>
