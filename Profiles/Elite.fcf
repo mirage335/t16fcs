@@ -1937,7 +1937,7 @@
             <Delay>-1</Delay>
             <Comment>
             </Comment>
-            <EventsNumber>2</EventsNumber>
+            <EventsNumber>1</EventsNumber>
             <StartTrigger>0</StartTrigger>
             <StopTrigger>0</StopTrigger>
             <CurveType>0</CurveType>
@@ -1953,20 +1953,12 @@
             <YPosition>50</YPosition>
             <HidEvent0>
               <DeviceNumber>-1</DeviceNumber>
-              <Name>L_ALT</Name>
-              <HidType>1</HidType>
-              <EventType>4</EventType>
-              <ActionType>1</ActionType>
-              <ControlIndex>226</ControlIndex>
-            </HidEvent0>
-            <HidEvent1>
-              <DeviceNumber>-1</DeviceNumber>
               <Name>1</Name>
               <HidType>1</HidType>
               <EventType>4</EventType>
               <ActionType>1</ActionType>
               <ControlIndex>30</ControlIndex>
-            </HidEvent1>
+            </HidEvent0>
           </HidCommand0>
           <HidCommand1>
             <EventName>OrderAlpha</EventName>
@@ -2025,7 +2017,7 @@
             <Delay>-1</Delay>
             <Comment>
             </Comment>
-            <EventsNumber>2</EventsNumber>
+            <EventsNumber>1</EventsNumber>
             <StartTrigger>0</StartTrigger>
             <StopTrigger>0</StopTrigger>
             <CurveType>0</CurveType>
@@ -2041,20 +2033,12 @@
             <YPosition>50</YPosition>
             <HidEvent0>
               <DeviceNumber>-1</DeviceNumber>
-              <Name>L_ALT</Name>
-              <HidType>1</HidType>
-              <EventType>4</EventType>
-              <ActionType>1</ActionType>
-              <ControlIndex>226</ControlIndex>
-            </HidEvent0>
-            <HidEvent1>
-              <DeviceNumber>-1</DeviceNumber>
               <Name>2</Name>
               <HidType>1</HidType>
               <EventType>4</EventType>
               <ActionType>1</ActionType>
               <ControlIndex>31</ControlIndex>
-            </HidEvent1>
+            </HidEvent0>
           </HidCommand0>
           <HidCommand1>
             <EventName>OrderBeta</EventName>
@@ -2113,7 +2097,7 @@
             <Delay>-1</Delay>
             <Comment>
             </Comment>
-            <EventsNumber>2</EventsNumber>
+            <EventsNumber>1</EventsNumber>
             <StartTrigger>0</StartTrigger>
             <StopTrigger>0</StopTrigger>
             <CurveType>0</CurveType>
@@ -2129,20 +2113,12 @@
             <YPosition>50</YPosition>
             <HidEvent0>
               <DeviceNumber>-1</DeviceNumber>
-              <Name>L_ALT</Name>
-              <HidType>1</HidType>
-              <EventType>4</EventType>
-              <ActionType>1</ActionType>
-              <ControlIndex>226</ControlIndex>
-            </HidEvent0>
-            <HidEvent1>
-              <DeviceNumber>-1</DeviceNumber>
               <Name>3</Name>
               <HidType>1</HidType>
               <EventType>4</EventType>
               <ActionType>1</ActionType>
               <ControlIndex>32</ControlIndex>
-            </HidEvent1>
+            </HidEvent0>
           </HidCommand0>
           <HidCommand1>
             <EventName>OrderDelta</EventName>
@@ -2709,7 +2685,7 @@
             <Delay>-1</Delay>
             <Comment>
             </Comment>
-            <EventsNumber>2</EventsNumber>
+            <EventsNumber>1</EventsNumber>
             <StartTrigger>0</StartTrigger>
             <StopTrigger>0</StopTrigger>
             <CurveType>0</CurveType>
@@ -2725,20 +2701,12 @@
             <YPosition>50</YPosition>
             <HidEvent0>
               <DeviceNumber>-1</DeviceNumber>
-              <Name>L_ALT</Name>
-              <HidType>1</HidType>
-              <EventType>3</EventType>
-              <ActionType>1</ActionType>
-              <ControlIndex>226</ControlIndex>
-            </HidEvent0>
-            <HidEvent1>
-              <DeviceNumber>-1</DeviceNumber>
               <Name>F10</Name>
               <HidType>1</HidType>
               <EventType>3</EventType>
               <ActionType>1</ActionType>
               <ControlIndex>67</ControlIndex>
-            </HidEvent1>
+            </HidEvent0>
           </HidCommand5>
         </Events>
       </HidEvent>

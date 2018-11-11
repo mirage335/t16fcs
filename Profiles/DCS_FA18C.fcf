@@ -3130,7 +3130,7 @@
               <DeviceNumber>-1</DeviceNumber>
               <Name>L_CTL</Name>
               <HidType>1</HidType>
-              <EventType>3</EventType>
+              <EventType>4</EventType>
               <ActionType>1</ActionType>
               <ControlIndex>224</ControlIndex>
             </HidEvent0>
@@ -3138,7 +3138,7 @@
               <DeviceNumber>-1</DeviceNumber>
               <Name>b</Name>
               <HidType>1</HidType>
-              <EventType>3</EventType>
+              <EventType>4</EventType>
               <ActionType>1</ActionType>
               <ControlIndex>5</ControlIndex>
             </HidEvent1>
@@ -3216,6 +3216,36 @@
         <ControlIndex>13</ControlIndex>
         <Events>
           <HidCommand0>
+            <EventName>Landing Gear</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>1 32</Layers>
+            <Delay>-1</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>g</Name>
+              <HidType>1</HidType>
+              <EventType>3</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>10</ControlIndex>
+            </HidEvent0>
+          </HidCommand0>
+          <HidCommand1>
             <EventName>Flaps Step Down</EventName>
             <IsSequence>False</IsSequence>
             <Layers>2 32</Layers>
@@ -3260,36 +3290,6 @@
               <ActionType>1</ActionType>
               <ControlIndex>9</ControlIndex>
             </HidEvent2>
-          </HidCommand0>
-          <HidCommand1>
-            <EventName>Landing Gear</EventName>
-            <IsSequence>False</IsSequence>
-            <Layers>1 32</Layers>
-            <Delay>-1</Delay>
-            <Comment>
-            </Comment>
-            <EventsNumber>1</EventsNumber>
-            <StartTrigger>0</StartTrigger>
-            <StopTrigger>0</StopTrigger>
-            <CurveType>0</CurveType>
-            <Lower>0</Lower>
-            <Center>0</Center>
-            <Upper>0</Upper>
-            <Trim>0</Trim>
-            <Curve>0</Curve>
-            <Zoom>0</Zoom>
-            <AxisIsReversed>False</AxisIsReversed>
-            <AxisIsRelative>False</AxisIsRelative>
-            <XPosition>50</XPosition>
-            <YPosition>50</YPosition>
-            <HidEvent0>
-              <DeviceNumber>-1</DeviceNumber>
-              <Name>g</Name>
-              <HidType>1</HidType>
-              <EventType>3</EventType>
-              <ActionType>1</ActionType>
-              <ControlIndex>10</ControlIndex>
-            </HidEvent0>
           </HidCommand1>
           <HidCommand2>
             <EventName>Kneeboard Forward</EventName>
@@ -3358,7 +3358,7 @@
               <DeviceNumber>-1</DeviceNumber>
               <Name>L_SHIFT</Name>
               <HidType>1</HidType>
-              <EventType>3</EventType>
+              <EventType>4</EventType>
               <ActionType>1</ActionType>
               <ControlIndex>225</ControlIndex>
             </HidEvent0>
@@ -3366,7 +3366,7 @@
               <DeviceNumber>-1</DeviceNumber>
               <Name>b</Name>
               <HidType>1</HidType>
-              <EventType>3</EventType>
+              <EventType>4</EventType>
               <ActionType>1</ActionType>
               <ControlIndex>5</ControlIndex>
             </HidEvent1>
@@ -3669,6 +3669,36 @@
               <ControlIndex>55</ControlIndex>
             </HidEvent1>
           </HidCommand1>
+          <HidCommand2>
+            <EventName>FOV</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>2 64</Layers>
+            <Delay>-1</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>i</Name>
+              <HidType>1</HidType>
+              <EventType>4</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>12</ControlIndex>
+            </HidEvent0>
+          </HidCommand2>
         </Events>
       </HidEvent>
     </Event30>
