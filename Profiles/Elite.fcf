@@ -3131,7 +3131,7 @@
               <DeviceNumber>-1</DeviceNumber>
               <Name>L_CTL</Name>
               <HidType>1</HidType>
-              <EventType>3</EventType>
+              <EventType>4</EventType>
               <ActionType>1</ActionType>
               <ControlIndex>224</ControlIndex>
             </HidEvent0>
@@ -3139,7 +3139,7 @@
               <DeviceNumber>-1</DeviceNumber>
               <Name>h</Name>
               <HidType>1</HidType>
-              <EventType>3</EventType>
+              <EventType>4</EventType>
               <ActionType>1</ActionType>
               <ControlIndex>11</ControlIndex>
             </HidEvent1>
