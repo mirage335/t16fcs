@@ -124,7 +124,7 @@
           <Center>3</Center>
           <Upper>1</Upper>
           <Trim>0</Trim>
-          <Curve>2</Curve>
+          <Curve>4</Curve>
           <Zoom>0</Zoom>
           <AxisIsReversed>False</AxisIsReversed>
           <AxisIsRelative>False</AxisIsRelative>
@@ -293,10 +293,10 @@
           <StopTrigger>0</StopTrigger>
           <CurveType>0</CurveType>
           <Lower>0</Lower>
-          <Center>35</Center>
+          <Center>7</Center>
           <Upper>0</Upper>
           <Trim>0</Trim>
-          <Curve>10</Curve>
+          <Curve>6</Curve>
           <Zoom>7</Zoom>
           <AxisIsReversed>True</AxisIsReversed>
           <AxisIsRelative>False</AxisIsRelative>
@@ -336,10 +336,10 @@
           <StopTrigger>0</StopTrigger>
           <CurveType>0</CurveType>
           <Lower>0</Lower>
-          <Center>12</Center>
+          <Center>18</Center>
           <Upper>0</Upper>
           <Trim>0</Trim>
-          <Curve>2</Curve>
+          <Curve>3</Curve>
           <Zoom>0</Zoom>
           <AxisIsReversed>False</AxisIsReversed>
           <AxisIsRelative>False</AxisIsRelative>
@@ -379,10 +379,10 @@
           <StopTrigger>0</StopTrigger>
           <CurveType>0</CurveType>
           <Lower>0</Lower>
-          <Center>10</Center>
+          <Center>18</Center>
           <Upper>0</Upper>
           <Trim>0</Trim>
-          <Curve>2</Curve>
+          <Curve>3</Curve>
           <Zoom>0</Zoom>
           <AxisIsReversed>True</AxisIsReversed>
           <AxisIsRelative>False</AxisIsRelative>
@@ -2817,37 +2817,6 @@
         <ControlIndex>3</ControlIndex>
         <Events>
           <HidCommand0>
-            <EventName>PTTalt - VHF AM</EventName>
-            <IsSequence>False</IsSequence>
-            <Layers>2 16</Layers>
-            <Delay>-1</Delay>
-            <Comment>
-            </Comment>
-            <EventsNumber>1</EventsNumber>
-            <StartTrigger>0</StartTrigger>
-            <StopTrigger>0</StopTrigger>
-            <CurveType>0</CurveType>
-            <Lower>0</Lower>
-            <Center>0</Center>
-            <Upper>0</Upper>
-            <Trim>0</Trim>
-            <Curve>0</Curve>
-            <Zoom>0</Zoom>
-            <AxisIsReversed>False</AxisIsReversed>
-            <AxisIsRelative>False</AxisIsRelative>
-            <XPosition>50</XPosition>
-            <YPosition>50</YPosition>
-            <HidEvent0>
-              <DeviceNumber>-1</DeviceNumber>
-              <Name>
-              </Name>
-              <HidType>0</HidType>
-              <EventType>1</EventType>
-              <ActionType>0</ActionType>
-              <ControlIndex>0</ControlIndex>
-            </HidEvent0>
-          </HidCommand0>
-          <HidCommand1>
             <EventName>PTT - UHF</EventName>
             <IsSequence>False</IsSequence>
             <Layers>2 32</Layers>
@@ -2877,8 +2846,69 @@
               <ActionType>1</ActionType>
               <ControlIndex>32</ControlIndex>
             </HidEvent0>
+          </HidCommand0>
+          <HidCommand1>
+            <EventName>PTT - Record</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>2 32</Layers>
+            <Delay>-1</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>F24</Name>
+              <HidType>1</HidType>
+              <EventType>4</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>115</ControlIndex>
+            </HidEvent0>
           </HidCommand1>
           <HidCommand2>
+            <EventName>PTTalt - VHF AM</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>2 16</Layers>
+            <Delay>-1</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>
+              </Name>
+              <HidType>0</HidType>
+              <EventType>1</EventType>
+              <ActionType>0</ActionType>
+              <ControlIndex>0</ControlIndex>
+            </HidEvent0>
+          </HidCommand2>
+          <HidCommand3>
             <EventName>PTTalt - VHF FM</EventName>
             <IsSequence>False</IsSequence>
             <Layers>2 64</Layers>
@@ -2908,8 +2938,8 @@
               <ActionType>0</ActionType>
               <ControlIndex>0</ControlIndex>
             </HidEvent0>
-          </HidCommand2>
-          <HidCommand3>
+          </HidCommand3>
+          <HidCommand4>
             <EventName>PTTalt - AUTO</EventName>
             <IsSequence>False</IsSequence>
             <Layers>1 16</Layers>
@@ -2939,8 +2969,8 @@
               <ActionType>0</ActionType>
               <ControlIndex>0</ControlIndex>
             </HidEvent0>
-          </HidCommand3>
-          <HidCommand4>
+          </HidCommand4>
+          <HidCommand5>
             <EventName>PTT - COVAS</EventName>
             <IsSequence>False</IsSequence>
             <Layers>1 32</Layers>
@@ -2970,8 +3000,8 @@
               <ActionType>1</ActionType>
               <ControlIndex>28</ControlIndex>
             </HidEvent0>
-          </HidCommand4>
-          <HidCommand5>
+          </HidCommand5>
+          <HidCommand6>
             <EventName>PTTalt - GROUND INTERPHONE</EventName>
             <IsSequence>False</IsSequence>
             <Layers>1 64</Layers>
@@ -3000,36 +3030,6 @@
               <EventType>1</EventType>
               <ActionType>0</ActionType>
               <ControlIndex>0</ControlIndex>
-            </HidEvent0>
-          </HidCommand5>
-          <HidCommand6>
-            <EventName>PTT - Record</EventName>
-            <IsSequence>False</IsSequence>
-            <Layers>2 32</Layers>
-            <Delay>-1</Delay>
-            <Comment>
-            </Comment>
-            <EventsNumber>1</EventsNumber>
-            <StartTrigger>0</StartTrigger>
-            <StopTrigger>0</StopTrigger>
-            <CurveType>0</CurveType>
-            <Lower>0</Lower>
-            <Center>0</Center>
-            <Upper>0</Upper>
-            <Trim>0</Trim>
-            <Curve>0</Curve>
-            <Zoom>0</Zoom>
-            <AxisIsReversed>False</AxisIsReversed>
-            <AxisIsRelative>False</AxisIsRelative>
-            <XPosition>50</XPosition>
-            <YPosition>50</YPosition>
-            <HidEvent0>
-              <DeviceNumber>-1</DeviceNumber>
-              <Name>F24</Name>
-              <HidType>1</HidType>
-              <EventType>4</EventType>
-              <ActionType>1</ActionType>
-              <ControlIndex>115</ControlIndex>
             </HidEvent0>
           </HidCommand6>
         </Events>
@@ -3158,6 +3158,36 @@
               <ControlIndex>60</ControlIndex>
             </HidEvent0>
           </HidCommand0>
+          <HidCommand1>
+            <EventName>F8</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>1 32</Layers>
+            <Delay>-1</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>F8</Name>
+              <HidType>1</HidType>
+              <EventType>3</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>65</ControlIndex>
+            </HidEvent0>
+          </HidCommand1>
         </Events>
       </HidEvent>
     </Event22>
@@ -3276,6 +3306,36 @@
               <ControlIndex>49</ControlIndex>
             </HidEvent1>
           </HidCommand2>
+          <HidCommand3>
+            <EventName>F12</EventName>
+            <IsSequence>False</IsSequence>
+            <Layers>1 32</Layers>
+            <Delay>-1</Delay>
+            <Comment>
+            </Comment>
+            <EventsNumber>1</EventsNumber>
+            <StartTrigger>0</StartTrigger>
+            <StopTrigger>0</StopTrigger>
+            <CurveType>0</CurveType>
+            <Lower>0</Lower>
+            <Center>0</Center>
+            <Upper>0</Upper>
+            <Trim>0</Trim>
+            <Curve>0</Curve>
+            <Zoom>0</Zoom>
+            <AxisIsReversed>False</AxisIsReversed>
+            <AxisIsRelative>False</AxisIsRelative>
+            <XPosition>50</XPosition>
+            <YPosition>50</YPosition>
+            <HidEvent0>
+              <DeviceNumber>-1</DeviceNumber>
+              <Name>F12</Name>
+              <HidType>1</HidType>
+              <EventType>3</EventType>
+              <ActionType>1</ActionType>
+              <ControlIndex>69</ControlIndex>
+            </HidEvent0>
+          </HidCommand3>
         </Events>
       </HidEvent>
     </Event23>

@@ -727,7 +727,7 @@
             <EventName>Shield</EventName>
             <IsSequence>False</IsSequence>
             <Layers>2 32</Layers>
-            <Delay>225</Delay>
+            <Delay>-1</Delay>
             <Comment>
             </Comment>
             <EventsNumber>1</EventsNumber>
@@ -757,7 +757,7 @@
             <EventName>Cooling</EventName>
             <IsSequence>False</IsSequence>
             <Layers>2 32</Layers>
-            <Delay>-1</Delay>
+            <Delay>235</Delay>
             <Comment>
             </Comment>
             <EventsNumber>2</EventsNumber>
@@ -3323,7 +3323,7 @@
               <DeviceNumber>-1</DeviceNumber>
               <Name>L_SHIFT</Name>
               <HidType>1</HidType>
-              <EventType>3</EventType>
+              <EventType>4</EventType>
               <ActionType>1</ActionType>
               <ControlIndex>225</ControlIndex>
             </HidEvent0>
@@ -3331,7 +3331,7 @@
               <DeviceNumber>-1</DeviceNumber>
               <Name>e</Name>
               <HidType>1</HidType>
-              <EventType>3</EventType>
+              <EventType>4</EventType>
               <ActionType>1</ActionType>
               <ControlIndex>8</ControlIndex>
             </HidEvent1>
