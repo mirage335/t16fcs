@@ -434,7 +434,10 @@
 	</ResetPowerDistribution>
 	<HMDReset>
 		<Primary Device="ThrustMasterWarthogCombined" Key="Joy_30" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="Keyboard" Key="Key_V">
+			<Modifier Device="Keyboard" Key="Key_LeftShift" />
+			<Modifier Device="Keyboard" Key="Key_LeftAlt" />
+		</Secondary>
 	</HMDReset>
 	<ToggleCargoScoop>
 		<Primary Device="Keyboard" Key="Key_P" />
@@ -554,6 +557,12 @@
 		</Primary>
 		<Secondary Device="{NoDevice}" Key="" />
 	</PlayerHUDModeToggle>
+	<ExplorationFSSEnter>
+		<Primary Device="Keyboard" Key="Key_BackSlash">
+			<Modifier Device="Keyboard" Key="Key_RightShift" />
+		</Primary>
+		<Secondary Device="{NoDevice}" Key="" />
+	</ExplorationFSSEnter>
 	<UI_Up>
 		<Primary Device="ThrustMasterWarthogCombined" Key="Joy_POV1Up" />
 		<Secondary Device="{NoDevice}" Key="" />
@@ -723,6 +732,10 @@
 		<Secondary Device="{NoDevice}" Key="" />
 		<ToggleOn Value="0" />
 	</CamTranslateZHold>
+	<GalaxyMapHome>
+		<Primary Device="ThrustMasterWarthogCombined" Key="Joy_4" />
+		<Secondary Device="{NoDevice}" Key="" />
+	</GalaxyMapHome>
 	<ToggleDriveAssist>
 		<Primary Device="Keyboard" Key="Key_LeftAlt">
 			<Modifier Device="Keyboard" Key="Key_9" />
@@ -1311,12 +1324,6 @@
 		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</GalnetAudio_ClearQueue>
-	<ExplorationFSSEnter>
-		<Primary Device="Keyboard" Key="Key_BackSlash">
-			<Modifier Device="Keyboard" Key="Key_RightShift" />
-		</Primary>
-		<Secondary Device="{NoDevice}" Key="" />
-	</ExplorationFSSEnter>
 	<ExplorationFSSCameraPitch>
 		<Binding Device="ThrustMasterWarthogCombined" Key="Joy_YAxis" />
 		<Inverted Value="0" />
